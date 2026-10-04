@@ -1,7 +1,7 @@
 {
   "appName": "FreeReels",
-  "version": "2.5.0",
-  "forceUpdate": true,
+  "version": "2.4.91",
+  "forceUpdate": false,
   "updateurl": "https://linkbio.co/ankraixmotionweb",
   "btnUpdateText": "Update Sekarang",
   "btnExitText": "Keluar",
